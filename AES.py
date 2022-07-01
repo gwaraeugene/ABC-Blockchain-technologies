@@ -1,4 +1,4 @@
-#Python 3.x
+#Python 3.10.2
 import base64
 import hashlib
 from Crypto.Cipher import AES
